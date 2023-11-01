@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/HelloReact/static/css/main.c48a1b57.css",
+    "main.css": "/HelloReact/static/css/main.c0430d16.css",
     "main.js": "/HelloReact/static/js/main.db727703.js",
     "static/js/787.94135fa5.chunk.js": "/HelloReact/static/js/787.94135fa5.chunk.js",
     "static/media/boxicons.svg": "/HelloReact/static/media/boxicons.61829f134e586c0c9e89.svg",
@@ -11,14 +11,15 @@
     "static/media/bootstrap-icons.woff2?": "/HelloReact/static/media/bootstrap-icons.dea24bf5a7646d8b84e7.woff2",
     "static/media/hero-bg.jpg": "/HelloReact/static/media/hero-bg.bf68ffbe5c0415cb26e9.jpg",
     "static/media/boxicons.woff2": "/HelloReact/static/media/boxicons.df635aaf04cd75132f62.woff2",
+    "static/media/5651980.jpg": "/HelloReact/static/media/5651980.e6f680531dc4b957d1fd.jpg",
     "static/media/logo.svg": "/HelloReact/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/HelloReact/index.html",
-    "main.c48a1b57.css.map": "/HelloReact/static/css/main.c48a1b57.css.map",
+    "main.c0430d16.css.map": "/HelloReact/static/css/main.c0430d16.css.map",
     "main.db727703.js.map": "/HelloReact/static/js/main.db727703.js.map",
     "787.94135fa5.chunk.js.map": "/HelloReact/static/js/787.94135fa5.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.c48a1b57.css",
+    "static/css/main.c0430d16.css",
     "static/js/main.db727703.js"
   ]
 }
