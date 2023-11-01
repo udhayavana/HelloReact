@@ -1,5 +1,10 @@
 import logo from './logo.svg';
-import './App.css';
+import './assets/css/style.css';
+import './assets/vendor/bootstrap/css/bootstrap.min.css';
+import './assets/vendor/bootstrap-icons/bootstrap-icons.css';
+import './assets/vendor/boxicons/css/boxicons.min.css';
+import './assets/vendor/glightbox/css/glightbox.min.css';
+import './assets/vendor/swiper/swiper-bundle.min.css';
 import {useState , useEffect} from 'react';
 // function changecolor(){
    
@@ -37,10 +42,13 @@ function App() {
 
   return (
     <div className="App">
-      <header className="App-header">
+      <header className="App-header" style={{display:'none'}}>
         <img src={logo} className="App-logo" alt="logo" />
         <p style={{color:textcolor}} > {content} </p>
       </header>
+      <h1>Udhayavanan Sambath</h1>
+      <h2>I'm a professional Web developer from Madurai</h2>
+
     </div>
   );
 }
