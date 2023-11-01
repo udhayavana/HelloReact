@@ -421,7 +421,7 @@ h6 {
 #hero {
   width: 100%;
   height: 100vh;
-  background: url("../img/hero-bg.jpg") top right;
+  background: url("../img/5651980.jpg") top right;
   background-size: cover;
 }
 
@@ -445,7 +445,7 @@ h6 {
 }
 
 #hero h2 {
-  color: #6f6f6f;
+  color: darkred;
   margin: 10px 0 0 0;
   font-size: 22px;
 }
